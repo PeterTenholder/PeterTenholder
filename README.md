@@ -1,6 +1,6 @@
 # Peter Tenholder
 
-**Physics · Incoming Cadet, U.S. Military Academy at West Point**
+**Physics · Incoming Cadet, United States Military Academy at West Point**
 
 I build systems at the intersection of computational physics, machine learning, and quantitative finance — with a focus on turning rigorous math into working software.
 
