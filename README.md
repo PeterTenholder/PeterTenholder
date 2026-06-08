@@ -28,7 +28,6 @@ Computational physics · Machine learning · Quantitative finance · Scientific 
 - Eagle Scout with 5 Palms
 - Two peer-reviewed publications (arXiv + ACM Digital Library)
 - SMathHacks 2026 Interface Design Grand Prize
-- Competitive distance runner and strength athlete
 
 ---
 
